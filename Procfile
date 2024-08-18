@@ -1,1 +1,1 @@
-gunicorn app.app & python3 kero.py
+web: python3 app.py & python3 kero.py
